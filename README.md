@@ -96,4 +96,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Built with 💻 and ☕ by Madhav Mundhra(https://github.com/madhav182004)
 
 ## Important Note
-Do not commit your `.env` file or expose sensitive credentials publicly. Ensure your `.gitignore` file includes `.env` to prevent accidental uploads. You might also consider rotating these keys since they are currently exposed.
+Do not commit your `.env` file or expose sensitive credentials publicly. Ensure your `.gitignore` file includes `.env` to prevent accidental uploads.
